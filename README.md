@@ -12,3 +12,5 @@ This program will grab the song list from the site, use those to get the .json f
 Those .json files are parsed, and the .mp3 links are saved into a txt file. I could figure out how to download the files, maybe later.
 
 But at least all the links are saved, then downloading those is fairly easy. You can use an extension like "DownThemAll", which allows txt file import.
+
+Seeing as I wrote this pretty quickly (and largely for my own purposes). It likely isn't "just exactly perfect". But, it should work well enough.
